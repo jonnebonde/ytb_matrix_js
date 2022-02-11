@@ -82,9 +82,9 @@ let charArr = [
   "Ц",
 ];
 
-let maxCharCount = 300;
+let maxCharCount = 100;
 let fallingCharArr = [];
-let fontSize = 13;
+let fontSize = 23;
 let maxColumns = cw / fontSize;
 
 
